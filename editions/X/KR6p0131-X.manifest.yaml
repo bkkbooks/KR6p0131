@@ -1,0 +1,398 @@
+canonical_identifier: bkk:krp/KR6p0131/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0131/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瓊樓吟稿節鈔
+  identifiers:
+    krp: KR6p0131
+    cbeta: X62n1213
+    cbeta_old_id: X62n1213
+    authorityid: CA0002605
+    json_key: X1213
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1213.xml
+    old_id: X62n1213
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0131_000-X.yaml, hash: 'sha256:fc490aa79c900a45aa8b176c6e33c6fe9702e17fdfbe27d5e1cf5072506b802e'}
+  - {seq: 1, filename: KR6p0131_001-X.yaml, hash: 'sha256:9a885ea1cae0f5a6a6d028d3b43542cb4e7c8c220c4fc7dcb09ef5ba4a74fac6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0131_000-X.markers.yaml, hash: 'sha256:0e52fae0e57c748469cf44f43bb6d3f87d6cebc87094a8df2d549e4bbb6dfc8f'}
+  - {seq: 1, role: markers, filename: assets/KR6p0131_001-X.markers.yaml, hash: 'sha256:80d7f0cf7a0b29958a86a593343e106a5483b867d5605042f422f0ad74caa82b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0131_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1213-A 瓊樓吟稿序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3510
+  label: 瓊樓吟稿節鈔
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 松
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-2
+    span:
+    - body
+    - 58
+    - 58
+  label: 蠟梅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-3
+    span:
+    - body
+    - 100
+    - 100
+  label: 山茶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-4
+    span:
+    - body
+    - 130
+    - 130
+  label: 李花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-5
+    span:
+    - body
+    - 160
+    - 160
+  label: 紫薇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-6
+    span:
+    - body
+    - 190
+    - 190
+  label: 蓴菜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-7
+    span:
+    - body
+    - 220
+    - 220
+  label: 茘支
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-8
+    span:
+    - body
+    - 250
+    - 250
+  label: 薑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-9
+    span:
+    - body
+    - 279
+    - 279
+  label: 將雪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-10
+    span:
+    - body
+    - 321
+    - 321
+  label: 題畫扇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-11
+    span:
+    - body
+    - 352
+    - 352
+  label: 鸚鵡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-12
+    span:
+    - body
+    - 409
+    - 409
+  label: 春日幽居
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-13
+    span:
+    - body
+    - 455
+    - 455
+  label: 秋日即事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-14
+    span:
+    - body
+    - 515
+    - 515
+  label: 秋暮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-15
+    span:
+    - body
+    - 573
+    - 573
+  label: 登穹窿山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-16
+    span:
+    - body
+    - 599
+    - 599
+  label: 登天平山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-17
+    span:
+    - body
+    - 623
+    - 623
+  label: 聽泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-18
+    span:
+    - body
+    - 645
+    - 645
+  label: 自警
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-19
+    span:
+    - body
+    - 687
+    - 687
+  label: 讀書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-20
+    span:
+    - body
+    - 729
+    - 729
+  label: 秋晚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-21
+    span:
+    - body
+    - 771
+    - 771
+  label: 冬日即事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-22
+    span:
+    - body
+    - 815
+    - 815
+  label: 野步
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-23
+    span:
+    - body
+    - 875
+    - 875
+  label: 幽居
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-24
+    span:
+    - body
+    - 917
+    - 917
+  label: 秋閨即景三首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-25
+    span:
+    - body
+    - 992
+    - 992
+  label: 不寐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-26
+    span:
+    - body
+    - 1034
+    - 1034
+  label: 登樓晚眺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-27
+    span:
+    - body
+    - 1078
+    - 1078
+  label: 同妹靜山夜話
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-28
+    span:
+    - body
+    - 1146
+    - 1146
+  label: 出門何所有
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-29
+    span:
+    - body
+    - 1171
+    - 1171
+  label: 春盡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-30
+    span:
+    - body
+    - 1231
+    - 1231
+  label: 書懷二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-31
+    span:
+    - body
+    - 1293
+    - 1293
+  label: 慚愧吟三十首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-32
+    span:
+    - body
+    - 2297
+    - 2297
+  label: 和二林主人戊戌春日閉關作十首即次原韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-33
+    span:
+    - body
+    - 2595
+    - 2595
+  label: 三房孫希洛婦陶氏為葦齊翁孫女好學工詩兼修淨業年二十五而殀詩以傷之
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-34
+    span:
+    - body
+    - 2695
+    - 2695
+  label: 祭姪婦陶氏文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0131_X_001-mulu-35
+    span:
+    - body
+    - 2857
+    - 2857
+  label: 亡妻陶孺人事略
+  type: mulu
+  level: 1
+hash: sha256:955ddd335abaf5e9bd24518f7b3f2ed4c348d2a75038a70d2be47bf02c30b272
