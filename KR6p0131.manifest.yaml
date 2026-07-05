@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0131_000.yaml, hash: 'sha256:fcdc80d1f5f916d14fdd37613f35cd47732501644d23e0b04b7578b0798084cf'}
-  - {seq: 1, filename: KR6p0131_001.yaml, hash: 'sha256:ec9faa16e57ab12a85abf7ffce32f03395f1504e558cf9df0962626089a43b93'}
+  - {seq: 0, filename: KR6p0131_000.yaml, hash: 'sha256:fc490aa79c900a45aa8b176c6e33c6fe9702e17fdfbe27d5e1cf5072506b802e'}
+  - {seq: 1, filename: KR6p0131_001.yaml, hash: 'sha256:9a885ea1cae0f5a6a6d028d3b43542cb4e7c8c220c4fc7dcb09ef5ba4a74fac6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0131_000.markers.yaml, hash: 'sha256:53a19b8d86d148cfad7bc73aad6ff8edbc77d748c2b4a92e4e79c36dce7c4071'}
-  - {seq: 1, role: markers, filename: assets/KR6p0131_001.markers.yaml, hash: 'sha256:37c1d3ef32d9f5cdb1ceaaeb1e214c342b0b61eef048ed955eff385920532d60'}
+  - {seq: 0, role: markers, filename: assets/KR6p0131_000.markers.yaml, hash: 'sha256:305528c597ca6ec776fca22eee0a09a752878892db543a1adf1dadf38368161e'}
+  - {seq: 1, role: markers, filename: assets/KR6p0131_001.markers.yaml, hash: 'sha256:1ca3de15a810ba2a1f03bb797ca061dc9bea25c5013b42b54c555a8c49688fac'}
 table_of_contents:
 - ref:
     seq: 0
@@ -397,7 +397,4 @@ table_of_contents:
   label: 亡妻陶孺人事略
   type: mulu
   level: 1
-hash: sha256:b606bf45c00f013365872dfffa3a7ea37dffc46c58b0970b42f908fd76b16cad
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:322d33fdb7e16e4089b6a22f242fda5eeb4b36dc2502ebd2b7aac4710ad4216e
