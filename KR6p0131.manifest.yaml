@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0131_000.yaml, hash: 'sha256:fcdc80d1f5f916d14fdd37613f35cd47732501644d23e0b04b7578b0798084cf'}
+  - {seq: 0, filename: KR6p0131_000.yaml, hash: 'sha256:e615434c954aae6a9c4bbcd0a67c769b942ca29964b47ca2d6d89f22b86b25cf'}
   - {seq: 1, filename: KR6p0131_001.yaml, hash: 'sha256:c15772f8f215c8de69d84c5903f3c664436f4d09cc4f15b95aa6a556bbb65875'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0131_000.markers.yaml, hash: 'sha256:3d3c5ee4c5e737090dd7b4b3bba74be77a304f617decdf0766795c0e68c41a91'}
+  - {seq: 0, role: markers, filename: assets/KR6p0131_000.markers.yaml, hash: 'sha256:f128b2ef437d9c0de3f1b49d04410839f1a23bf8378d5041f43ceb7e88235824'}
   - {seq: 1, role: markers, filename: assets/KR6p0131_001.markers.yaml, hash: 'sha256:abd56d1e038eac6f6fa3a81857e532b870f33992ca1bacee1c8bff88619f6667'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0131_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1213-A 瓊樓吟稿序
@@ -397,7 +397,7 @@ table_of_contents:
   label: 亡妻陶孺人事略
   type: mulu
   level: 1
-hash: sha256:811538f48ecc4fa22ded6db935306e0c45b8e5d2cc0816f79e19cdabcafc14f6
+hash: sha256:f4ab642b8aab8587ccd5f2526b6d27dbdb08330771612a29206ca6768ed3a04c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
